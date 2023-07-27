@@ -3,7 +3,8 @@
 En este archivo se encuentran los mods y resourcepacks oficiales de MoonSMP.
 Estos incluyen Carpet, Sodium, Iridium y más mods de optimización.
 
-Para poder entrar tendrás que descargar fabric desde https://fabricmc.net/use/installer/ en la versión 1.20
+Para poder entrar tendrás que descargar fabric desde https://fabricmc.net/use/installer/ en la versión 1.20 y luego postularte en el discord leyendo cada regla del formulario y esperando una respuesta del staff.
+Discord: https://discord.gg/awmtcDkRMa
 
 Los resourcepacks son opcionales, compilados y buscados por Amargos (Administrador)
 Estos contienen:
